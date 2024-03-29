@@ -13,3 +13,7 @@ output: yes
 test #4
 input: 11321
 output: no
+
+test #5
+input: 13
+output: yes
