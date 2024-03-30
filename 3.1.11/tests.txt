@@ -17,3 +17,7 @@ output: 10
 test #5
 input: 65; 48
 output: 10
+
+test #6
+input: 64; 42
+output: 10
