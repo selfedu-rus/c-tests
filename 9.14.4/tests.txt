@@ -1,0 +1,31 @@
+test #1
+input: mypass!1234
+output: yes
+
+test #2
+input: 1234!
+output: no
+
+test #3
+input: 1234ghj%
+output: yes
+
+test #4
+input: 124ghj%
+output: no
+
+test #5
+input: dggdgdgf$ff
+output: yes
+
+test #6
+input: ?@#fdgfhfgh
+output: yes
+
+test #7
+input: @#fdgfhfgh
+output: yes
+
+test #8
+input: #fdgfhfgh
+output: yes
