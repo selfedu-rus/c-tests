@@ -1,0 +1,7 @@
+test #1
+input: 5;2 10;15 20;7 13;1
+output: 116
+
+test #2
+input: 1;2 9; 13 18;10 11;0
+output: 123
