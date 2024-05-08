@@ -1,0 +1,7 @@
+test #1
+input: Moscow Ufa Tver Piter Toliatti Samara Kazan
+output: Moscow Toliatti Samara
+
+test #2
+input: Voronesh Volgograd Piter Ufa
+output: Voronesh Volgograd
