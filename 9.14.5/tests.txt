@@ -1,0 +1,17 @@
+test #1
+input: 
+I love C
+div
+
+output: 
+<h1>I love C</h1>
+<div>I love C</div>
+
+test #2
+input: 
+Laguage C++
+p
+
+output: 
+<h1>Laguage C++</h1>
+<p>Laguage C++</p>
