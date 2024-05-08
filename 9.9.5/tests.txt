@@ -1,0 +1,11 @@
+test #1
+input: Bjarne Stroustrup
+output: Bjar
+
+test #2
+input: Balakirev Sergey
+output: Bala
+
+test #3
+input: I love C
+output: I lo
