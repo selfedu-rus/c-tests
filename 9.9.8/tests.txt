@@ -1,0 +1,11 @@
+test #1
+input: c_standartnye---potoki-vvodavyvoda--funkcii-putchar----i-getchar
+output: c_standartnye-potoki-vvodavyvoda-funkcii-putchar-i-getchar
+
+test #2
+input: --c_funkciya-scanf-dlya---formatirovannogo----------vvoda
+output: -c_funkciya-scanf-dlya-formatirovannogo-vvoda
+
+test #3
+input: --c_arifmeticheskie----operacii-slozhenie--vychitanie-umnozhenie-i-delenie--
+output: -c_arifmeticheskie-operacii-slozhenie-vychitanie-umnozhenie-i-delenie-
