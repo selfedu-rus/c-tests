@@ -29,3 +29,11 @@ output: 0
 test #8
 input: рус@ml.ru
 output: 0
+
+test #9
+input: другой%?&спецсимвол@mask.com
+output: 0
+
+test #10
+input: КОФЕЙНЯ_16@адрес.com
+output: 0
