@@ -25,3 +25,7 @@ output: 0
 test #7
 input: sc_lib78.list@ru
 output: 0
+
+test #8
+input: рус@ml.ru
+output: 0
