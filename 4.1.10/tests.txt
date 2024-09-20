@@ -13,3 +13,7 @@ output: 1
 test #4
 input: 225 55
 output: 5
+
+test #5
+input: 15 15
+output: 15
