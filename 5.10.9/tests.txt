@@ -37,3 +37,7 @@ output: 0
 test #10
 input: КОФЕЙНЯ_16@адрес.com
 output: 0
+
+test #11
+input: @sc_liblistru.
+output: 0
