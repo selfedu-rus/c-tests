@@ -13,3 +13,7 @@ output: yes
 test #4
 input: 100 4 10
 output: no
+
+test #5
+input: 2 5 7
+output: no
