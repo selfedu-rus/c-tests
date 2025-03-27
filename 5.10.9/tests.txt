@@ -41,3 +41,7 @@ output: 0
 test #11
 input: @sc_liblistru.
 output: 0
+
+test #12
+input: ABCDEFG0123456_@mail.ru.
+output: 0
