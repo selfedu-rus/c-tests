@@ -7,6 +7,6 @@ input: Voronezsh Piter Kazan Astachan Orenburg Orel
 output: Voronezsh Astachan
 
 test #3
-input: Ufa Baltimor Kazan Vladivostok
+input: Ufa Baltimor Kazan Vladivostok Tver Orel
 output: Baltimor Vladivostok
 
