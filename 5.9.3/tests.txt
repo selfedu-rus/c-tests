@@ -5,3 +5,8 @@ output: Ulianovsk Belgorod
 test #2
 input: Voronezsh Piter Kazan Astachan Orenburg Orel
 output: Voronezsh Astachan
+
+test #3
+input: Ufa Baltimor Kazan Vladivostok
+output: Baltimor Vladivostok
+
