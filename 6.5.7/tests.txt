@@ -5,3 +5,15 @@ output: 19
 test #2
 input: -1 -2 -3 -4
 output: -3
+
+test #3
+input: 5 4 7 1
+output: 12
+
+test #4
+input: 6 -3 8 11
+output: 19
+
+test #5
+input: 1 2 0 4
+output: 6
