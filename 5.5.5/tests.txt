@@ -17,3 +17,7 @@ output: 1
 test #5
 input: 2 4
 output: 4
+
+test #6
+input: 1 11 2
+output: 1 11
